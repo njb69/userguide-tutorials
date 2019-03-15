@@ -1,0 +1,15 @@
+{
+  "endpoints": [
+    {
+      "active": true,
+      "capabilities": {},
+      "headless": false,
+      "id": "de777bbe-659c-1cbf-91b5-c336d3632b76",
+      "info": "v71.0.3578.98",
+      "name": "Chrome",
+      "type": "local",
+      "version": "71.0.3578.98",
+      "browserName": "chrome"
+    }
+  ]
+}

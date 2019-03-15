@@ -1,0 +1,6 @@
+uitest\tests\Test1.class
+uitest\SuiteConfiguration.class
+uitest\pageobjects\DetailPagePo.class
+uitest\DebugWebDriverPool.class
+uitest\TestNgTestBase.class
+uitest\pageobjects\HeaderPo.class

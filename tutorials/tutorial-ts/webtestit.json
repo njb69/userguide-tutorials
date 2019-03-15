@@ -1,0 +1,26 @@
+{
+  "defaultTestName": "should... ",
+  "jiraCredentials": {
+    "host": "",
+    "issueType": "Task",
+    "password": "",
+    "projectKey": "TEST",
+    "protocol": "http",
+    "statusCompletedName": "Done",
+    "statusToDoName": "To Do",
+    "strictSSL": false,
+    "username": ""
+  },
+  "pageObjectFolder": "test/pageobjects",
+  "projectName": "tutorial-ts",
+  "rootPackage": "uitest",
+  "targetFramework": "Protractor",
+  "targetLanguage": "ts",
+  "testFolder": "test/tests",
+  "testrailCredentials": {
+    "host": "",
+    "password": "",
+    "user": ""
+  },
+  "version": "0.23.1"
+}
